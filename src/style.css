@@ -314,3 +314,11 @@ nav a:hover {
     width: 33.333%;
   }
 }
+
+.text {
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+  margin: 0;
+  text-shadow: 0 20px 20px rgb(0 0 0 / 70%);
+}
